@@ -6,3 +6,6 @@
 명령어  
 가상환경 실행  
 venv\Scripts\activate.bat
+
+서버 실행
+python manage.py runserver
