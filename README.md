@@ -9,3 +9,7 @@ venv\Scripts\activate.bat
 
 서버 실행
 python manage.py runserver
+
+마이그레이션  
+python .\manage.py makemigrations  
+python .\manage.py migrate
